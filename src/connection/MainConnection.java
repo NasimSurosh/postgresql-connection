@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 public class MainConnection {
     static String user = "postgres";
-    static  String pwd = "Nasim646016";
+    static  String pwd = " ";
     static String url = "jdbc:postgresql://localhost:5432/SchoolDB";
     static String sql = "select * from students";
 
